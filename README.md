@@ -4,7 +4,7 @@ A  full-stack Task Manager with:
 - **Backend:** Node.js + Express + MongoDB (Mongoose) + JWT Auth
 - **Frontend:** React (Vite)
 
-- [Watch the demo video]()
+- [Watch the demo video](task_app_rec)
 
 
 Users can register/login and manage their own tasks (create, list, toggle complete, delete).

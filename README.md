@@ -5,7 +5,7 @@ A  full-stack Task Manager with:
 - **Frontend:** React (Vite)
 
 - [Watch the demo video](task_app_rec.mp4)
-- if it doesnt run here you can find it in the main repository
+- if it doesnt run here, you can find it in the main repository
 
 
 Users can register/login and manage their own tasks (create, list, toggle complete, delete).

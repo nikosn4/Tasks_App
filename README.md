@@ -13,9 +13,10 @@ Users can register/login and manage their own tasks (create, list, toggle comple
 ## Project Structure
 
 tasks_app/
-backend/ # Express API + MongoDB + JWT auth
+backend/ Express API + MongoDB + JWT auth
+
 frontend/
-vite-project/ # React (Vite) client
+vite-project/React (Vite) client
 
 
 ## Prerequisites

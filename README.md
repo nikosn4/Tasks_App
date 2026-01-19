@@ -39,7 +39,7 @@ vite-project/React (Vite) client
 
 ## Frontend set up
 open a second terminal dont close the first one because it needs to be running the rear and front end 
-run: 
+, run: 
 cd frontend/vite-project  (your path)
 npm install
 npm run dev
